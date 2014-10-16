@@ -1,0 +1,13 @@
+# Created by .gitignore support plugin (hsz.mobi)
+### Gradle template
+.gradle
+build
+gradle
+
+# Ignore Gradle GUI config
+settings.gradle
+
+### Intellij ###
+## Directory-based project format
+test.iml
+.idea
